@@ -10,6 +10,7 @@
         $y[]=$elem;
 
     }
-    var_dump($x)'<br>';
     var_dump($x);
+    echo '<br>';
+    var_dump($y);
 ?>
